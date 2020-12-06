@@ -1,0 +1,17 @@
+// VS Code Settings.json file
+
+{
+	"workbench.colorTheme": "Solarized Dark",
+	"editor.minimap.enabled": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	//"liveServer.settings.useWebExt": true,
+	//"liveServer.settings.fullReload": false,
+	"liveServer.settings.donotShowInfoMsg": false,
+	"liveServer.settings.CustomBrowser": "chrome",
+	"prettier.semi": false //,
+	//"liveServer.settings.wait": 1,
+	//"files.autoSave": "afterDelay",
+	//"files.autoSaveDelay": 1
+}
