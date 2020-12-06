@@ -1,5 +1,8 @@
 // VS Code Settings.json file
 
+// few entries are commented because the Browser Extension related stuff
+// were hindering with the Live Server
+
 {
 	"workbench.colorTheme": "Solarized Dark",
 	"editor.minimap.enabled": false,
