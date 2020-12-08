@@ -22,9 +22,19 @@ body {
 	margin: 0;
 }
 
+div.header {
+	position: absolute;
+	/*border: 1px solid red;*/
+	display: flex;
+	top: 5px;
+}
+
 .container {
 	display: flex;
 	width: 90vw;
+	/*border: 1px solid blue;*/
+	position: relative;
+	margin: 10px;
 }
 
 .panel {
